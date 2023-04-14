@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T16:11:06 IST" name="Default suite" finished-at="2022-12-29T16:14:12 IST" duration-ms="186333">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T16:11:06 IST" name="Default test" finished-at="2022-12-29T16:14:12 IST" duration-ms="186333">
+      <class name="com.Khanij.WeighbridgeRegistration.Alphanumeric">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:11:06 IST" name="openBrowser" finished-at="2022-12-29T16:11:09 IST" duration-ms="3024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginPageOpen()[pri:0, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:11:09 IST" name="loginPageOpen" finished-at="2022-12-29T16:13:25 IST" duration-ms="135779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageOpen -->
+        <test-method signature="WBNameTextFieldAlphanumericCheck()[pri:1, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:25 IST" name="WBNameTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:29 IST" duration-ms="3937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBNameTextFieldAlphanumericCheck -->
+        <test-method signature="SPNameTextFieldAlphanumericCheck()[pri:2, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:29 IST" name="SPNameTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:31 IST" duration-ms="2576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SPNameTextFieldAlphanumericCheck -->
+        <test-method signature="SPCNOTextFieldAlphanumericCheck()[pri:3, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:31 IST" name="SPCNOTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:34 IST" duration-ms="2596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SPCNOTextFieldAlphanumericCheck -->
+        <test-method signature="CapacityNameTextFieldAlphanumericCheck()[pri:4, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:34 IST" name="CapacityNameTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:37 IST" duration-ms="2591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CapacityNameTextFieldAlphanumericCheck -->
+        <test-method signature="AreaOfLandTextFieldAlphanumericCheck()[pri:5, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:37 IST" name="AreaOfLandTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:39 IST" duration-ms="2558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AreaOfLandTextFieldAlphanumericCheck -->
+        <test-method signature="WBModelBaudRateTextFieldAlphanumericCheck()[pri:6, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:39 IST" name="WBModelBaudRateTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:42 IST" duration-ms="2578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBModelBaudRateTextFieldAlphanumericCheck -->
+        <test-method signature="WBDataBitTextFieldAlphanumericCheck()[pri:7, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:42 IST" name="WBDataBitTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:44 IST" duration-ms="2570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBDataBitTextFieldAlphanumericCheck -->
+        <test-method signature="WBStopBitTextFieldAlphanumericCheck()[pri:8, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:44 IST" name="WBStopBitTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:47 IST" duration-ms="2553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBStopBitTextFieldAlphanumericCheck -->
+        <test-method signature="WBParityTextFieldAlphanumericCheck()[pri:9, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:47 IST" name="WBParityTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:49 IST" duration-ms="2552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBParityTextFieldAlphanumericCheck -->
+        <test-method signature="WBStringReadFromHyperterminalTextFieldAlphanumericCheck()[pri:10, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:49 IST" name="WBStringReadFromHyperterminalTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:52 IST" duration-ms="2548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBStringReadFromHyperterminalTextFieldAlphanumericCheck -->
+        <test-method signature="WBPoint1LatitudeTextFieldAlphanumericCheck()[pri:11, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:52 IST" name="WBPoint1LatitudeTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:54 IST" duration-ms="2561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBPoint1LatitudeTextFieldAlphanumericCheck -->
+        <test-method signature="WBPoint1LongitudeTextFieldAlphanumericCheck()[pri:12, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:54 IST" name="WBPoint1LongitudeTextFieldAlphanumericCheck" finished-at="2022-12-29T16:13:57 IST" duration-ms="2536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBPoint1LongitudeTextFieldAlphanumericCheck -->
+        <test-method signature="WBPoint2LatitudeTextFieldAlphanumericCheck()[pri:13, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:13:57 IST" name="WBPoint2LatitudeTextFieldAlphanumericCheck" finished-at="2022-12-29T16:14:00 IST" duration-ms="2568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBPoint2LatitudeTextFieldAlphanumericCheck -->
+        <test-method signature="WBPoint2LongitudeTextFieldAlphanumericCheck()[pri:15, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:14:00 IST" name="WBPoint2LongitudeTextFieldAlphanumericCheck" finished-at="2022-12-29T16:14:02 IST" duration-ms="2556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBPoint2LongitudeTextFieldAlphanumericCheck -->
+        <test-method signature="WBPoint3LatitudeTextFieldAlphanumericCheck()[pri:16, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:14:02 IST" name="WBPoint3LatitudeTextFieldAlphanumericCheck" finished-at="2022-12-29T16:14:05 IST" duration-ms="2559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBPoint3LatitudeTextFieldAlphanumericCheck -->
+        <test-method signature="WBPoint3LongitudeTextFieldAlphanumericCheck()[pri:18, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:14:05 IST" name="WBPoint3LongitudeTextFieldAlphanumericCheck" finished-at="2022-12-29T16:14:07 IST" duration-ms="2555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBPoint3LongitudeTextFieldAlphanumericCheck -->
+        <test-method signature="WBPoint4LatitudeTextFieldAlphanumericCheck()[pri:19, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:14:07 IST" name="WBPoint4LatitudeTextFieldAlphanumericCheck" finished-at="2022-12-29T16:14:10 IST" duration-ms="2533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBPoint4LatitudeTextFieldAlphanumericCheck -->
+        <test-method signature="WBPoint4LongitudeTextFieldAlphanumericCheck()[pri:20, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:14:10 IST" name="WBPoint4LongitudeTextFieldAlphanumericCheck" finished-at="2022-12-29T16:14:12 IST" duration-ms="2524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WBPoint4LongitudeTextFieldAlphanumericCheck -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.Khanij.WeighbridgeRegistration.Alphanumeric@5d0a1059]" started-at="2022-12-29T16:14:12 IST" name="closeBrowser" finished-at="2022-12-29T16:14:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Khanij.WeighbridgeRegistration.Alphanumeric -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
