@@ -15,5 +15,6 @@ public interface AutoConstant {
 	String VTDVendorRegistration_Sheet="VTDVendorRegistration";
 	String TailingDamRegistration_Sheet="TailingDamRegistration";
 	String WeighbridgeRegistration_Sheet="WeighbridgeRegistration";
+	String a="test changes";
 
 }
